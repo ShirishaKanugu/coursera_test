@@ -13,13 +13,14 @@ body {
 
 .navbar-brand {
   padding-top: 25px;
-  padding-bottom: 25px;
+
 }
 
 .navbar-brand h1 { /* Restaurant name */
   font-family: 'Lora', serif;
   color: #557c3e;
   font-size: 1.5em;
+  text-align:left;
   text-transform: uppercase;
   font-weight: bold;
   text-shadow: 1px 1px 1px #222;
