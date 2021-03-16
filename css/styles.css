@@ -20,7 +20,7 @@ body {
   font-family: 'Lora', serif;
   color: #557c3e;
   font-size: 1.5em;
-  text-align:left;
+  float: left;
   text-transform: uppercase;
   font-weight: bold;
   text-shadow: 1px 1px 1px #222;
