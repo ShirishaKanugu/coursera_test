@@ -80,8 +80,6 @@ body {
 h3 {
 	position:relative;
     float: center;
-    border-left: 1px solid black;
-	border-bottom: 1px solid black;
     text-align: center;
     padding: 5px;
     margin: 0;
