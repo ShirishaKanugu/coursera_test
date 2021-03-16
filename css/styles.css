@@ -55,3 +55,43 @@ body {
 }
 /* END HEADER */
 
+/* MAIN CONTENT*/
+/********** Base styles **********/
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+    margin: 30px;
+    text-align: center;
+}
+body {
+	background-color: MintCream;
+}
+.box {
+    border: 1px solid black;
+    background-color: #A5A5A5;
+    margin: 20px;
+    overflow: auto;
+}
+
+h3 {
+	position:relative;
+    float: center;
+    border-left: 1px solid black;
+	border-bottom: 1px solid black;
+    text-align: center;
+    padding: 5px;
+    margin: 0;
+}
+
+p {
+    clear: both;
+    margin: 15px;
+    font-family: Helvetica;
+}
+
+
+
