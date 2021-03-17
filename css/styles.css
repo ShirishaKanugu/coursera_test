@@ -1,7 +1,5 @@
 * {
     box-sizing: border-box;
-    margin: 0;
-    padding: 0;
 }
 body {
   font-size: 16px;
@@ -17,7 +15,7 @@ body {
 }
 
 .navbar-brand {
-  margin-top: 25px;
+  margin-top: 15px;
 
 }
 
