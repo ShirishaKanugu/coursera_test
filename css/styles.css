@@ -1,3 +1,8 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
 body {
   font-size: 16px;
   color: #fff;
@@ -17,10 +22,10 @@ body {
 }
 
 .navbar-brand h1 { /* Restaurant name */
+  position: relative;
   font-family: 'Lora', serif;
   color: #557c3e;
   font-size: 1.5em;
-  float: left;
   text-transform: uppercase;
   font-weight: bold;
   text-shadow: 1px 1px 1px #222;
@@ -58,11 +63,7 @@ body {
 /* END HEADER */
 /* MAIN CONTENT*/
 /********** Base styles **********/
-* {
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
-}
+
 h2 {
     margin: 30px;
     text-align: center;
